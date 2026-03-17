@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "xuxiaoruiii",
+		"description": "xUxIAOrUIII 的个人博客，记录后端学习、Agent、Go语言相关笔记。",
+		"username": "xUxIAOrUIII"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -26,13 +26,9 @@
 		{
 			"id": "cat",
 			"url": "/images/art/cat.png"
-		},
-		{
-			"id": "a46372ff45bc5524",
-			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -44,23 +40,16 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/xUxIAOrUI815",
 			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
+			"order": 1
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "1531793838@qq.com",
 			"label": "",
-			"order": 1
+			"order": 2
 		}
 	],
 	"clockShowSeconds": false,
@@ -68,7 +57,7 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 1,
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
