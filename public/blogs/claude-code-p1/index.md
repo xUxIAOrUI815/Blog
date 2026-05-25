@@ -1,11 +1,11 @@
 # 七个核心组件
 
-User 
-Interfaces
-Permission System
-Tools
-State & Persistence
-Execution Environment
+- User 
+- Interfaces
+- Permission System
+- Tools
+- State & Persistence
+- Execution Environment
 所有入口最终都收敛到同一个agent loop，Claude Code 的CLI、SDK、headless模式并不是各有一套执行引擎，而是共享核心循环，只是渲染和交互方式不同。
 
 # Where does reasoning live? 推理放在哪里？

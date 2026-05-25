@@ -1,8 +1,11 @@
 {
   "title": "Dive into Claude Code-p1",
-  "tags": [],
+  "tags": [
+    "Claude Code",
+    "系列文章"
+  ],
   "date": "2026-05-25T17:39",
-  "summary": "",
+  "summary": "研读 Claude Code 系列文章",
   "hidden": false,
   "category": ""
 }
