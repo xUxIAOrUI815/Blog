@@ -1,5 +1,14 @@
 [
   {
+    "slug": "ai-agent1",
+    "title": "AgentNote 1",
+    "tags": [],
+    "date": "2026-05-25T20:07",
+    "summary": "",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "claude-code-p1",
     "title": "Dive into Claude Code-p1",
     "tags": [
